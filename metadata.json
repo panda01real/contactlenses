@@ -1,0 +1,8 @@
+{
+  "name": "OcuTrack - Contador de Lentes de Contacto",
+  "description": "App y widget para Samsung S23 FE y Android para registrar el uso diario de lentes de contacto, calcular días restantes y recibir recordatorios de cambio.",
+  "requestFramePermissions": [
+    "notifications"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

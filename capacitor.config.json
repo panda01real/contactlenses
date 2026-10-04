@@ -1,0 +1,9 @@
+{
+  "appId": "com.ocutrack.app",
+  "appName": "OcuTrack",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
